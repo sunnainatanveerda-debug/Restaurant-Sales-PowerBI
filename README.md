@@ -339,19 +339,6 @@ Restaurant-Sales-PowerBI/
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-Add screenshots of each Power BI page to the `screenshots` folder.
-
-Recommended names:
-
-1. `executive-overview.png`
-2. `product-category-analysis.png`
-3. `sales-trends-time-analysis.png`
-4. `product-performance.png`
-
-Then add them to this README using:
-
 ## 📊 Dashboard Preview
 
 ### 1. Executive Overview
@@ -369,7 +356,6 @@ Then add them to this README using:
 ### 4. Product Performance
 
 ![Product Performance](screenshots/product-performance.png)
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file from this repository.
