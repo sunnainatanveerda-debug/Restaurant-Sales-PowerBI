@@ -352,19 +352,23 @@ Recommended names:
 
 Then add them to this README using:
 
-```markdown
-## Dashboard Preview
+## 📊 Dashboard Preview
+
+### 1. Executive Overview
 
 ![Executive Overview](screenshots/executive-overview.png)
 
+### 2. Product & Category Analysis
+
 ![Product & Category Analysis](screenshots/product-category-analysis.png)
+
+### 3. Sales Trends & Time Analysis
 
 ![Sales Trends & Time Analysis](screenshots/sales-trends-time-analysis.png)
 
-![Product Performance](screenshots/product-performance.png)
-```
+### 4. Product Performance
 
----
+![Product Performance](screenshots/product-performance.png)
 
 ## 🚀 How to Use
 
